@@ -65,8 +65,11 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Ulisses Castro é assistente de análise de dados de sustentabilidade no Centro de Tecnologia de Edificações (CTE). Formando em Engenharia da Computação 
+pela Universidade Virtual do Estado de São Paulo (UNIVESP) e graduado em Arquitetura e Urbanismo (USP), começou
+a trabalhar com dados ainda na primeira graduação, quando foi pesquisador no Laboratório Espaço Público e Direito à Cidade (LabCidade), onde trabalhou
+com a análise de dados voltada para a habitação, planejamento urbano e legislação.
+Obteve especialização em Data Science e Machine Learning em 2022 pela Tera e atualmente estuda Ciência de Dados na EBAC. Atualmente trabalha com a produção
+de modelos de Machine Learning, análise de dados e Web Scraping.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
