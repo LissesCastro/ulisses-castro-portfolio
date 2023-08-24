@@ -65,12 +65,11 @@ social:
 #email: ""
 ---
 
-Ulisses Castro é assistente de análise de dados de sustentabilidade no Centro de Tecnologia de Edificações (CTE). Formando em Engenharia da Computação 
+<div style="text-align: justify">Ulisses Castro é assistente de análise de dados de sustentabilidade no Centro de Tecnologia de Edificações (CTE). Formando em Engenharia da Computação 
 pela Universidade Virtual do Estado de São Paulo (UNIVESP) e graduado em Arquitetura e Urbanismo (USP), começou
 a trabalhar com dados ainda na primeira graduação, quando foi pesquisador no Laboratório Espaço Público e Direito à Cidade (LabCidade) onde trabalhou
-com a análise de dados voltada para a habitação, planejamento urbano e legislação.
-
-Obteve especialização em Data Science e Machine Learning em 2022 pela Tera e atualmente estuda Ciência de Dados na EBAC. Atualmente trabalha com a produção
-de modelos de Machine Learning, análise de dados e Web Scraping.
+com a análise de dados voltada para a habitação, planejamento urbano e legislação.</div>
+<div style="text-align: justify">Obteve especialização em Data Science e Machine Learning em 2022 pela Tera e atualmente estuda Ciência de Dados na EBAC. Atualmente trabalha com a produção
+de modelos de Machine Learning, análise de dados e Web Scraping. </div>
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
