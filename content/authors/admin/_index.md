@@ -26,6 +26,7 @@ interests:
 - Sustentabilidade
 - Mercado Imobiliário
 - Finanças
+  <br></br>
 
 #education:
 #  courses:
@@ -46,7 +47,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
+    link: mailto:lisses@alumni.usp.br          #'about/#contact' # For a direct email link, use "mailto:test@example.org".
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/__ules
@@ -76,3 +77,4 @@ com a análise de dados voltada para a habitação, planejamento urbano e legisl
 de modelos de Machine Learning, análise de dados e Web Scraping. </div>
 <br/><br/>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Faça Download{{< /staticref >}} do meu currículo em PDF.
+<br/><br/>

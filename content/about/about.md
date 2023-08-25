@@ -12,7 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: ''
+title: <font size="3">lisses@alumni.usp.br</font>
+#subtitle: 
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.
