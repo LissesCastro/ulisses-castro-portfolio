@@ -71,7 +71,8 @@ social:
 pela Universidade Virtual do Estado de São Paulo (UNIVESP) e graduado em Arquitetura e Urbanismo (USP), começou
 a trabalhar com dados ainda na primeira graduação, quando foi pesquisador no Laboratório Espaço Público e Direito à Cidade (LabCidade) onde trabalhou
 com a análise de dados voltada para a habitação, planejamento urbano e legislação.</div>
+<br/><br/>
 <div style="text-align: justify">Obteve especialização em Data Science e Machine Learning em 2022 pela Tera e atualmente estuda Ciência de Dados na EBAC. Atualmente trabalha com a produção
 de modelos de Machine Learning, análise de dados e Web Scraping. </div>
-
+<br/><br/>
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Faça Download{{< /staticref >}} do meu currículo em PDF.
