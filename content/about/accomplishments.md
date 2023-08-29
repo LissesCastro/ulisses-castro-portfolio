@@ -23,29 +23,69 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - certificate_url: https://www.coursera.org
-    date_end: ''
-    date_start: '2021-01-25'
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/REKV3NQP43GU
+    date_end: '2023-07-10'
+    date_start: '2023-06-10'
+    description: 
+    organization: University of Michigan
+    organization_url: ''
+    title: Database Design and Basic SQL in PostgreSQL
+    url: ''
+  - certificate_url: https://www.kaggle.com/learn/certification/ulissesalvesdecastro/time-series
+    date_end: '2023-04-16'
+    date_start: '2023-04-01'
+    description: 
+    organization: edX
+    organization_url: ''
+    title: Time Series
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/HA7PBGDRV9CE
+    date_end: '2022-07-15'
+    date_start: '2022-06-15'
+    description: ''
+    organization: University of Michigan
+    organization_url: ''
+    title: 'Fitting Statistical Models to Data with Python'
+    url: ''
+  - certificate_url: https://www.kaggle.com/learn/certification/ulissesalvesdecastro/data-visualization
+    date_end: '2022-03-29'
+    date_start: '2022-03-15'
     description: ''
     organization: Coursera
-    organization_url: https://www.coursera.org
-    title: Neural Networks and Deep Learning
+    organization_url: ''
+    title: Data Visualization
     url: ''
-  - certificate_url: https://www.edx.org
-    date_end: ''
-    date_start: '2021-01-01'
-    description: Formulated informed blockchain models, hypotheses, and use cases.
-    organization: edX
-    organization_url: https://www.edx.org
-    title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-  - certificate_url: https://www.datacamp.com
-    date_end: '2020-12-21'
-    date_start: '2020-07-01'
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/3L98C9LC28MZ
+    date_end: '2022-01-19'
+    date_start: '2022-01-03'
     description: ''
-    organization: DataCamp
-    organization_url: https://www.datacamp.com
-    title: 'Object-Oriented Programming in R'
+    organization: Coursera
+    organization_url: ''
+    title: Python Data Representations
+    url: ''
+  - certificate_url: https://www.coursera.org/account/accomplishments/verify/2KZFAZRQLV8M
+    date_end: '2021-03-29'
+    date_start: '2021-03-01'
+    description: ''
+    organization: Coursera
+    organization_url: ''
+    title: Python Programming Essentials
+    url: ''
+  - certificate_url: https://coursera.org/verify/U2CH962YQ6XG
+    date_end: '2021-08-07'
+    date_start: '2021-08-06'
+    description: ''
+    organization: University of Michigan
+    organization_url: ''
+    title: Python Data Structures
+    url: ''
+  - certificate_url: https://www.coursera.org
+    date_end: '2021-03-22'
+    date_start: '2021-02-22'
+    description: ''
+    organization: University of Michigan
+    organization_url: ''
+    title: Programming for Everybody (Getting Started With Python)
     url: ''
 
 design:
