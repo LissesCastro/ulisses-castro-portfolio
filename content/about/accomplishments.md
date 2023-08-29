@@ -35,7 +35,7 @@ item:
     date_end: '2023-04-16'
     date_start: '2023-04-01'
     description: 
-    organization: edX
+    organization: kaggle
     organization_url: ''
     title: Time Series
     url: ''
