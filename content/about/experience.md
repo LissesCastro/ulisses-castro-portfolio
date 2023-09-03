@@ -30,11 +30,12 @@ experience:
     date_start: '2023-01-09'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        * Análise e monitoramento de dados de performance de edifícios
+        * Implementação de requisitos de performance para obtenção de certificações sustentáveis
+        * Automatização de processos de leitura e input de dados
+        * Estudo e criação de modelos preditivos
+        * Auditoria de energia e resíduos em edifícios
+        * Documentação e monitoramento para certificação LEED O+M
 
   - title: Estagiário em Sustentabilidade
     company: Centro de Tecnologia de Edificações (CTE)
@@ -44,11 +45,10 @@ experience:
     date_start: '2021-08-02'
     date_end: '2022-12-31'
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying      
+        * Análises de dados térmicos e lumínicos de edificações
+        * Validação de dados de projetos de construção civil 
+        * Verificação de atendimento de edificações à norma brasileira NBR15575-1
+        * Criação de apresentações dos resultados para clientes.   
 
   - title: Pesquisador em habitação e legislação 
     company: Labcidade (USP)
@@ -57,7 +57,10 @@ experience:
     location: 
     date_start: '2019-08-01'
     date_end: '2021-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        * Análise de dados georreferenciados de remoções - Qgis
+        * Extração e trabalho dos dados - Excel, Python e R)
+        * Elaboração de apresentações - PowerPoint)
 
 design:
   columns: '1'

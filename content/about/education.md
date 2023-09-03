@@ -30,8 +30,8 @@ experience:
     date_start: '2023-06-01'
     date_end: ''
     description: |2-
-        * 'Preencher'
-        * 'Preencher aqui'
+        Bacharelado Interdisciplinar em Tecnologia da Informação. A conclusão da graduação em TI será em 06/2026
+
 
 
   - title: Bacharelado em Arquitetura e Urbanismo
@@ -42,8 +42,8 @@ experience:
     date_start: '2017-01-01'
     date_end: '2022-12-31'
     description: |2-
-        * 'Preencher'
-        * 'Preencher aqui'
+        Trabalho de Conclusão de Curso disponível [aqui](https://www.researchgate.net/publication/366547761_Entre_acesso_e_excesso_-_Investigacao_sobre_o_aquecimento_urbano_na_cidade_de_Sao_Paulo)
+
 
   - title: Especialização em Ciência de Dados
     company: Escola Britânica de Artes Criativas e Tecnologia
@@ -53,8 +53,7 @@ experience:
     date_start: '2022-06-01'
     date_end: ''
     description: |2-
-        * 'Preencher'
-        * 'Preencher aqui'
+
 
   - title: Especialização em Data Science e Machine Learning
     company: Tera
@@ -64,8 +63,7 @@ experience:
     date_start: '2022-06-01'
     date_end: '2023-03-31'
     description: |2-
-        * 'Preencher'
-        * 'Preencher aqui'
+
 
 
 
