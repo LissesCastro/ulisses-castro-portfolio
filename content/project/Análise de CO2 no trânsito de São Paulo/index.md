@@ -1,6 +1,6 @@
 ---
 title: Análise de CO2 no trânsito de São Paulo
-summary: Write about your project here...
+summary: ''
 tags:
   - AD
 date: 2022-01-01

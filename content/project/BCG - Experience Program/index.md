@@ -1,6 +1,6 @@
 ---
 title: BCG - Experience Program
-summary: Write about your project here...
+summary: ''
 tags:
   - AD
 date: 2022-01-01

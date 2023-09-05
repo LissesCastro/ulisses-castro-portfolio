@@ -1,6 +1,6 @@
 ---
 title: Obtendo a temperatura de superfície - GEE
-summary: Write about your project here...
+summary: ''
 tags:
   - AD
 date: 2022-01-01
