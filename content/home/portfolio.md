@@ -32,6 +32,8 @@ content:
       tag: AD
     - name: Ciência de dados 
       tag: CD
+    - name: Outros 
+      tag: OU
     #- name: NLP
     #  tag: NLP
 
