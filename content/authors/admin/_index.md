@@ -6,7 +6,7 @@ title: Ulisses Castro
 superuser: true
 
 # Role/position
-role: 'Portfolio pessoal - Ciência de Dados'
+role: 'Trabalhos - Ciência e Análise de Dados'
 
 # Status emoji
 status:
