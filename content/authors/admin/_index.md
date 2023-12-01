@@ -53,10 +53,10 @@ social:
     link: https://twitter.com/__ules
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/ulisses-a-452819209/
+    link: https://www.linkedin.com/in/ulisses-alves-castro/
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/LissesCastro
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
